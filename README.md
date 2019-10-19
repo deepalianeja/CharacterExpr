@@ -1,4 +1,4 @@
-# DeepExpr
+# CharacterExpr
 Modeling Stylized Character Expressions via Deep Learning
 
 ### FERG Expression database
